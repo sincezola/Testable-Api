@@ -1,2 +1,2 @@
 # Testable-Api
- A SOLID Testable Api, with in-memory database.
+ A SOLID Testable Api using Vitest, with in-memory database.
